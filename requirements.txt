@@ -1,0 +1,6 @@
+selenium==3.11.0
+pytest==4.5.0
+pytest-html==1.20.0
+allure-pytest==2.8.7
+allure-python-commons==2.8.7
+PyYAML==3.13
