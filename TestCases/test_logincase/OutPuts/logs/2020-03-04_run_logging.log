@@ -1,0 +1,602 @@
+2020-03-04 14:18 Webdrivers.py[line:20] INFO Æô¶¯ä¯ÀÀÆ÷Îª£ºChrome
+2020-03-04 14:18 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:8245/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-03-04 14:18 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 14:18 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:8245/session/020b1a3377c57c9b6c3b28a2ca213a89/window/current/maximize {"windowHandle": "current", "sessionId": "020b1a3377c57c9b6c3b28a2ca213a89"}
+2020-03-04 14:18 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 14:18 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:8245/session/020b1a3377c57c9b6c3b28a2ca213a89/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "020b1a3377c57c9b6c3b28a2ca213a89"}
+2020-03-04 14:18 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 14:18 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:8245/session/020b1a3377c57c9b6c3b28a2ca213a89/window/current/maximize {"windowHandle": "current", "sessionId": "020b1a3377c57c9b6c3b28a2ca213a89"}
+2020-03-04 14:18 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 14:18 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:8245/session/020b1a3377c57c9b6c3b28a2ca213a89/url {"sessionId": "020b1a3377c57c9b6c3b28a2ca213a89"}
+2020-03-04 14:18 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 14:18 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:8245/session/020b1a3377c57c9b6c3b28a2ca213a89/url {"url": "data:,", "sessionId": "020b1a3377c57c9b6c3b28a2ca213a89"}
+2020-03-04 14:18 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing BlpImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing BmpImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing BufrStubImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing CurImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing DcxImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing DdsImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing EpsImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing FitsStubImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing FliImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing FpxImagePlugin
+2020-03-04 14:18 Image.py[line:430] DEBUG Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing FtexImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing GbrImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing GifImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing GribStubImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing Hdf5StubImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing IcnsImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing IcoImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing ImImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing ImtImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing IptcImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing JpegImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing Jpeg2KImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing McIdasImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing MicImagePlugin
+2020-03-04 14:18 Image.py[line:430] DEBUG Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing MpegImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing MpoImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing MspImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing PalmImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing PcdImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing PcxImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing PdfImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing PixarImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing PngImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing PpmImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing PsdImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing SgiImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing SpiderImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing SunImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing TgaImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing TiffImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing WebPImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing WmfImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing XbmImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing XpmImagePlugin
+2020-03-04 14:18 Image.py[line:427] DEBUG Importing XVThumbImagePlugin
+2020-03-04 14:18 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:8245/session/020b1a3377c57c9b6c3b28a2ca213a89/url {"sessionId": "020b1a3377c57c9b6c3b28a2ca213a89"}
+2020-03-04 14:18 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 14:18 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:8245/session/020b1a3377c57c9b6c3b28a2ca213a89/window_handle {"sessionId": "020b1a3377c57c9b6c3b28a2ca213a89"}
+2020-03-04 14:18 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 14:18 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:8245/session/020b1a3377c57c9b6c3b28a2ca213a89/log/types {"sessionId": "020b1a3377c57c9b6c3b28a2ca213a89"}
+2020-03-04 14:18 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 14:18 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:8245/session/020b1a3377c57c9b6c3b28a2ca213a89/orientation {"sessionId": "020b1a3377c57c9b6c3b28a2ca213a89"}
+2020-03-04 14:18 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 14:18 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:8245/session/020b1a3377c57c9b6c3b28a2ca213a89/source {"sessionId": "020b1a3377c57c9b6c3b28a2ca213a89"}
+2020-03-04 14:18 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 14:18 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:8245/session/020b1a3377c57c9b6c3b28a2ca213a89/title {"sessionId": "020b1a3377c57c9b6c3b28a2ca213a89"}
+2020-03-04 14:18 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 14:18 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:8245/session/020b1a3377c57c9b6c3b28a2ca213a89/window_handles {"sessionId": "020b1a3377c57c9b6c3b28a2ca213a89"}
+2020-03-04 14:18 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 14:18 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:8245/session/020b1a3377c57c9b6c3b28a2ca213a89/log/types {"sessionId": "020b1a3377c57c9b6c3b28a2ca213a89"}
+2020-03-04 14:18 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 14:18 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:8245/session/020b1a3377c57c9b6c3b28a2ca213a89/window_handles {"sessionId": "020b1a3377c57c9b6c3b28a2ca213a89"}
+2020-03-04 14:18 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:37 remote_connection.py[line:480] DEBUG DELETE http://127.0.0.1:8245/session/020b1a3377c57c9b6c3b28a2ca213a89 {"sessionId": "020b1a3377c57c9b6c3b28a2ca213a89"}
+2020-03-04 15:37 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:37 Webdrivers.py[line:20] INFO Æô¶¯ä¯ÀÀÆ÷Îª£ºChrome
+2020-03-04 15:37 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9003/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-03-04 15:37 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:37 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9003/session/d277fb670d2612c513644f1f999fa40a/window/current/maximize {"windowHandle": "current", "sessionId": "d277fb670d2612c513644f1f999fa40a"}
+2020-03-04 15:37 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:37 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9003/session/d277fb670d2612c513644f1f999fa40a/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "d277fb670d2612c513644f1f999fa40a"}
+2020-03-04 15:37 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:37 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9003/session/d277fb670d2612c513644f1f999fa40a/window/current/maximize {"windowHandle": "current", "sessionId": "d277fb670d2612c513644f1f999fa40a"}
+2020-03-04 15:37 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:37 remote_connection.py[line:480] DEBUG DELETE http://127.0.0.1:9003/session/d277fb670d2612c513644f1f999fa40a {"sessionId": "d277fb670d2612c513644f1f999fa40a"}
+2020-03-04 15:37 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:44 Webdrivers.py[line:20] INFO Æô¶¯ä¯ÀÀÆ÷Îª£ºChrome
+2020-03-04 15:44 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9053/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-03-04 15:44 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:44 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9053/session/da6aca7186ba1bb6730b27f179da4d01/window/current/maximize {"windowHandle": "current", "sessionId": "da6aca7186ba1bb6730b27f179da4d01"}
+2020-03-04 15:45 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:45 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9053/session/da6aca7186ba1bb6730b27f179da4d01/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "da6aca7186ba1bb6730b27f179da4d01"}
+2020-03-04 15:45 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:45 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9053/session/da6aca7186ba1bb6730b27f179da4d01/window/current/maximize {"windowHandle": "current", "sessionId": "da6aca7186ba1bb6730b27f179da4d01"}
+2020-03-04 15:45 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:45 remote_connection.py[line:480] DEBUG DELETE http://127.0.0.1:9053/session/da6aca7186ba1bb6730b27f179da4d01 {"sessionId": "da6aca7186ba1bb6730b27f179da4d01"}
+2020-03-04 15:45 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:45 Webdrivers.py[line:20] INFO Æô¶¯ä¯ÀÀÆ÷Îª£ºChrome
+2020-03-04 15:45 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9081/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-03-04 15:45 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:45 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9081/session/20df32f0a90648564c7b7c011ea02ac2/window/current/maximize {"windowHandle": "current", "sessionId": "20df32f0a90648564c7b7c011ea02ac2"}
+2020-03-04 15:45 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:45 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9081/session/20df32f0a90648564c7b7c011ea02ac2/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "20df32f0a90648564c7b7c011ea02ac2"}
+2020-03-04 15:45 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:45 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9081/session/20df32f0a90648564c7b7c011ea02ac2/window/current/maximize {"windowHandle": "current", "sessionId": "20df32f0a90648564c7b7c011ea02ac2"}
+2020-03-04 15:45 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing BlpImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing BmpImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing BufrStubImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing CurImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing DcxImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing DdsImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing EpsImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing FitsStubImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing FliImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing FpxImagePlugin
+2020-03-04 15:45 Image.py[line:430] DEBUG Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing FtexImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing GbrImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing GifImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing GribStubImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing Hdf5StubImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing IcnsImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing IcoImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing ImImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing ImtImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing IptcImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing JpegImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing Jpeg2KImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing McIdasImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing MicImagePlugin
+2020-03-04 15:45 Image.py[line:430] DEBUG Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing MpegImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing MpoImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing MspImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing PalmImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing PcdImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing PcxImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing PdfImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing PixarImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing PngImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing PpmImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing PsdImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing SgiImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing SpiderImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing SunImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing TgaImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing TiffImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing WebPImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing WmfImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing XbmImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing XpmImagePlugin
+2020-03-04 15:45 Image.py[line:427] DEBUG Importing XVThumbImagePlugin
+2020-03-04 15:46 Webdrivers.py[line:20] INFO Æô¶¯ä¯ÀÀÆ÷Îª£ºChrome
+2020-03-04 15:46 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9134/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-03-04 15:46 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:46 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9134/session/04f1bad7cb2ca0a013cd879cc9dcf7f4/window/current/maximize {"windowHandle": "current", "sessionId": "04f1bad7cb2ca0a013cd879cc9dcf7f4"}
+2020-03-04 15:47 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:47 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9134/session/04f1bad7cb2ca0a013cd879cc9dcf7f4/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "04f1bad7cb2ca0a013cd879cc9dcf7f4"}
+2020-03-04 15:47 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:47 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9134/session/04f1bad7cb2ca0a013cd879cc9dcf7f4/window/current/maximize {"windowHandle": "current", "sessionId": "04f1bad7cb2ca0a013cd879cc9dcf7f4"}
+2020-03-04 15:47 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:47 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9134/session/04f1bad7cb2ca0a013cd879cc9dcf7f4/url {"url": "https://testerhome.com/", "sessionId": "04f1bad7cb2ca0a013cd879cc9dcf7f4"}
+2020-03-04 15:47 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing BlpImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing BmpImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing BufrStubImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing CurImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing DcxImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing DdsImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing EpsImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing FitsStubImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing FliImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing FpxImagePlugin
+2020-03-04 15:47 Image.py[line:430] DEBUG Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing FtexImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing GbrImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing GifImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing GribStubImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing Hdf5StubImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing IcnsImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing IcoImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing ImImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing ImtImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing IptcImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing JpegImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing Jpeg2KImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing McIdasImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing MicImagePlugin
+2020-03-04 15:47 Image.py[line:430] DEBUG Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing MpegImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing MpoImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing MspImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing PalmImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing PcdImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing PcxImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing PdfImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing PixarImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing PngImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing PpmImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing PsdImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing SgiImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing SpiderImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing SunImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing TgaImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing TiffImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing WebPImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing WmfImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing XbmImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing XpmImagePlugin
+2020-03-04 15:47 Image.py[line:427] DEBUG Importing XVThumbImagePlugin
+2020-03-04 15:47 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9134/session/04f1bad7cb2ca0a013cd879cc9dcf7f4/url {"sessionId": "04f1bad7cb2ca0a013cd879cc9dcf7f4"}
+2020-03-04 15:47 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:47 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9134/session/04f1bad7cb2ca0a013cd879cc9dcf7f4/url {"sessionId": "04f1bad7cb2ca0a013cd879cc9dcf7f4"}
+2020-03-04 15:47 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:47 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9134/session/04f1bad7cb2ca0a013cd879cc9dcf7f4/url {"sessionId": "04f1bad7cb2ca0a013cd879cc9dcf7f4"}
+2020-03-04 15:47 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:47 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9134/session/04f1bad7cb2ca0a013cd879cc9dcf7f4/url {"sessionId": "04f1bad7cb2ca0a013cd879cc9dcf7f4"}
+2020-03-04 15:47 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:48 Webdrivers.py[line:20] INFO Æô¶¯ä¯ÀÀÆ÷Îª£ºChrome
+2020-03-04 15:48 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9174/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-03-04 15:48 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:48 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9174/session/344465af8a7b1c5172c3b0882d84f5b7/window/current/maximize {"windowHandle": "current", "sessionId": "344465af8a7b1c5172c3b0882d84f5b7"}
+2020-03-04 15:48 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:48 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9174/session/344465af8a7b1c5172c3b0882d84f5b7/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "344465af8a7b1c5172c3b0882d84f5b7"}
+2020-03-04 15:48 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:48 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9174/session/344465af8a7b1c5172c3b0882d84f5b7/window/current/maximize {"windowHandle": "current", "sessionId": "344465af8a7b1c5172c3b0882d84f5b7"}
+2020-03-04 15:48 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:48 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9174/session/344465af8a7b1c5172c3b0882d84f5b7/url {"sessionId": "344465af8a7b1c5172c3b0882d84f5b7"}
+2020-03-04 15:48 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:48 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9174/session/344465af8a7b1c5172c3b0882d84f5b7/url {"url": "data:,", "sessionId": "344465af8a7b1c5172c3b0882d84f5b7"}
+2020-03-04 15:48 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing BlpImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing BmpImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing BufrStubImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing CurImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing DcxImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing DdsImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing EpsImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing FitsStubImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing FliImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing FpxImagePlugin
+2020-03-04 15:48 Image.py[line:430] DEBUG Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing FtexImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing GbrImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing GifImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing GribStubImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing Hdf5StubImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing IcnsImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing IcoImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing ImImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing ImtImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing IptcImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing JpegImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing Jpeg2KImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing McIdasImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing MicImagePlugin
+2020-03-04 15:48 Image.py[line:430] DEBUG Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing MpegImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing MpoImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing MspImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing PalmImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing PcdImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing PcxImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing PdfImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing PixarImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing PngImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing PpmImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing PsdImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing SgiImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing SpiderImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing SunImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing TgaImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing TiffImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing WebPImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing WmfImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing XbmImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing XpmImagePlugin
+2020-03-04 15:48 Image.py[line:427] DEBUG Importing XVThumbImagePlugin
+2020-03-04 15:48 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9174/session/344465af8a7b1c5172c3b0882d84f5b7/url {"sessionId": "344465af8a7b1c5172c3b0882d84f5b7"}
+2020-03-04 15:48 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:49 Webdrivers.py[line:20] INFO Æô¶¯ä¯ÀÀÆ÷Îª£ºChrome
+2020-03-04 15:49 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9205/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-03-04 15:49 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:49 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9205/session/40d7fd3c8895dcf736dc5155f3d882cc/window/current/maximize {"windowHandle": "current", "sessionId": "40d7fd3c8895dcf736dc5155f3d882cc"}
+2020-03-04 15:49 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:49 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9205/session/40d7fd3c8895dcf736dc5155f3d882cc/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "40d7fd3c8895dcf736dc5155f3d882cc"}
+2020-03-04 15:49 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:49 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9205/session/40d7fd3c8895dcf736dc5155f3d882cc/window/current/maximize {"windowHandle": "current", "sessionId": "40d7fd3c8895dcf736dc5155f3d882cc"}
+2020-03-04 15:49 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:49 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9205/session/40d7fd3c8895dcf736dc5155f3d882cc/url {"url": "https://testerhome.com/", "sessionId": "40d7fd3c8895dcf736dc5155f3d882cc"}
+2020-03-04 15:50 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing BlpImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing BmpImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing BufrStubImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing CurImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing DcxImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing DdsImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing EpsImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing FitsStubImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing FliImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing FpxImagePlugin
+2020-03-04 15:50 Image.py[line:430] DEBUG Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing FtexImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing GbrImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing GifImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing GribStubImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing Hdf5StubImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing IcnsImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing IcoImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing ImImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing ImtImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing IptcImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing JpegImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing Jpeg2KImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing McIdasImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing MicImagePlugin
+2020-03-04 15:50 Image.py[line:430] DEBUG Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing MpegImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing MpoImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing MspImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing PalmImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing PcdImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing PcxImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing PdfImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing PixarImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing PngImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing PpmImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing PsdImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing SgiImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing SpiderImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing SunImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing TgaImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing TiffImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing WebPImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing WmfImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing XbmImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing XpmImagePlugin
+2020-03-04 15:50 Image.py[line:427] DEBUG Importing XVThumbImagePlugin
+2020-03-04 15:50 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9205/session/40d7fd3c8895dcf736dc5155f3d882cc/url {"sessionId": "40d7fd3c8895dcf736dc5155f3d882cc"}
+2020-03-04 15:50 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:50 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9205/session/40d7fd3c8895dcf736dc5155f3d882cc/window_handle {"sessionId": "40d7fd3c8895dcf736dc5155f3d882cc"}
+2020-03-04 15:50 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:50 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9205/session/40d7fd3c8895dcf736dc5155f3d882cc/log/types {"sessionId": "40d7fd3c8895dcf736dc5155f3d882cc"}
+2020-03-04 15:50 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:50 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9205/session/40d7fd3c8895dcf736dc5155f3d882cc/orientation {"sessionId": "40d7fd3c8895dcf736dc5155f3d882cc"}
+2020-03-04 15:50 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:50 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9205/session/40d7fd3c8895dcf736dc5155f3d882cc/source {"sessionId": "40d7fd3c8895dcf736dc5155f3d882cc"}
+2020-03-04 15:50 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:50 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9205/session/40d7fd3c8895dcf736dc5155f3d882cc/title {"sessionId": "40d7fd3c8895dcf736dc5155f3d882cc"}
+2020-03-04 15:50 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:50 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9205/session/40d7fd3c8895dcf736dc5155f3d882cc/window_handles {"sessionId": "40d7fd3c8895dcf736dc5155f3d882cc"}
+2020-03-04 15:50 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:50 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9205/session/40d7fd3c8895dcf736dc5155f3d882cc/log/types {"sessionId": "40d7fd3c8895dcf736dc5155f3d882cc"}
+2020-03-04 15:50 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:50 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9205/session/40d7fd3c8895dcf736dc5155f3d882cc/window_handles {"sessionId": "40d7fd3c8895dcf736dc5155f3d882cc"}
+2020-03-04 15:50 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:50 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9205/session/40d7fd3c8895dcf736dc5155f3d882cc/url {"sessionId": "40d7fd3c8895dcf736dc5155f3d882cc"}
+2020-03-04 15:50 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:50 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9205/session/40d7fd3c8895dcf736dc5155f3d882cc/url {"url": "https://testerhome.com/", "sessionId": "40d7fd3c8895dcf736dc5155f3d882cc"}
+2020-03-04 15:50 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 15:52 remote_connection.py[line:480] DEBUG DELETE http://127.0.0.1:9205/session/40d7fd3c8895dcf736dc5155f3d882cc {"sessionId": "40d7fd3c8895dcf736dc5155f3d882cc"}
+2020-03-04 15:52 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:02 Webdrivers.py[line:20] INFO Æô¶¯ä¯ÀÀÆ÷Îª£ºChrome
+2020-03-04 16:02 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9350/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-03-04 16:02 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:02 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9350/session/71595ae55587e63a66a852e50551756a/window/current/maximize {"windowHandle": "current", "sessionId": "71595ae55587e63a66a852e50551756a"}
+2020-03-04 16:02 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:02 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9350/session/71595ae55587e63a66a852e50551756a/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "71595ae55587e63a66a852e50551756a"}
+2020-03-04 16:02 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:02 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9350/session/71595ae55587e63a66a852e50551756a/window/current/maximize {"windowHandle": "current", "sessionId": "71595ae55587e63a66a852e50551756a"}
+2020-03-04 16:02 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:02 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9350/session/71595ae55587e63a66a852e50551756a/url {"url": "https://testerhome.com/", "sessionId": "71595ae55587e63a66a852e50551756a"}
+2020-03-04 16:02 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing BlpImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing BmpImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing BufrStubImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing CurImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing DcxImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing DdsImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing EpsImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing FitsStubImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing FliImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing FpxImagePlugin
+2020-03-04 16:02 Image.py[line:430] DEBUG Image: failed to import FpxImagePlugin: No module named 'olefile'
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing FtexImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing GbrImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing GifImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing GribStubImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing Hdf5StubImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing IcnsImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing IcoImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing ImImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing ImtImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing IptcImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing JpegImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing Jpeg2KImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing McIdasImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing MicImagePlugin
+2020-03-04 16:02 Image.py[line:430] DEBUG Image: failed to import MicImagePlugin: No module named 'olefile'
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing MpegImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing MpoImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing MspImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing PalmImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing PcdImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing PcxImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing PdfImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing PixarImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing PngImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing PpmImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing PsdImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing SgiImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing SpiderImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing SunImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing TgaImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing TiffImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing WebPImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing WmfImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing XbmImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing XpmImagePlugin
+2020-03-04 16:02 Image.py[line:427] DEBUG Importing XVThumbImagePlugin
+2020-03-04 16:02 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9350/session/71595ae55587e63a66a852e50551756a/url {"sessionId": "71595ae55587e63a66a852e50551756a"}
+2020-03-04 16:02 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:02 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9350/session/71595ae55587e63a66a852e50551756a/window_handle {"sessionId": "71595ae55587e63a66a852e50551756a"}
+2020-03-04 16:02 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:02 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9350/session/71595ae55587e63a66a852e50551756a/log/types {"sessionId": "71595ae55587e63a66a852e50551756a"}
+2020-03-04 16:02 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:02 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9350/session/71595ae55587e63a66a852e50551756a/orientation {"sessionId": "71595ae55587e63a66a852e50551756a"}
+2020-03-04 16:02 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:02 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9350/session/71595ae55587e63a66a852e50551756a/source {"sessionId": "71595ae55587e63a66a852e50551756a"}
+2020-03-04 16:02 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:02 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9350/session/71595ae55587e63a66a852e50551756a/title {"sessionId": "71595ae55587e63a66a852e50551756a"}
+2020-03-04 16:02 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:02 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9350/session/71595ae55587e63a66a852e50551756a/window_handles {"sessionId": "71595ae55587e63a66a852e50551756a"}
+2020-03-04 16:02 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:02 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9350/session/71595ae55587e63a66a852e50551756a/log/types {"sessionId": "71595ae55587e63a66a852e50551756a"}
+2020-03-04 16:02 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:02 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9350/session/71595ae55587e63a66a852e50551756a/window_handles {"sessionId": "71595ae55587e63a66a852e50551756a"}
+2020-03-04 16:02 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:02 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9350/session/71595ae55587e63a66a852e50551756a/url {"sessionId": "71595ae55587e63a66a852e50551756a"}
+2020-03-04 16:02 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:02 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9350/session/71595ae55587e63a66a852e50551756a/url {"url": "https://testerhome.com/", "sessionId": "71595ae55587e63a66a852e50551756a"}
+2020-03-04 16:03 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:03 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9350/session/71595ae55587e63a66a852e50551756a/element {"using": "css selector", "value": "div.container>ul>li:nth-child(2)", "sessionId": "71595ae55587e63a66a852e50551756a"}
+2020-03-04 16:03 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:03 BasePage.py[line:72] INFO test001_µÇÂ¼Ê§°Ü==²Ù×÷²½Öè£º%s==div.container>ul>li:nth-child(2)_css_click_ 
+2020-03-04 16:03 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9350/session/71595ae55587e63a66a852e50551756a/element {"using": "css selector", "value": "div.container>ul>li:nth-child(2)", "sessionId": "71595ae55587e63a66a852e50551756a"}
+2020-03-04 16:03 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:03 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9350/session/71595ae55587e63a66a852e50551756a/element/0.242264429933704-1/click {"id": "0.242264429933704-1", "sessionId": "71595ae55587e63a66a852e50551756a"}
+2020-03-04 16:03 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:04 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9350/session/71595ae55587e63a66a852e50551756a/element {"using": "class name", "value": "input-lg", "sessionId": "71595ae55587e63a66a852e50551756a"}
+2020-03-04 16:04 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:04 BasePage.py[line:72] INFO test001_µÇÂ¼Ê§°Ü==²Ù×÷²½Öè£º%s==input-lg_class_name_send_keys_lose1
+2020-03-04 16:04 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9350/session/71595ae55587e63a66a852e50551756a/element {"using": "class name", "value": "input-lg", "sessionId": "71595ae55587e63a66a852e50551756a"}
+2020-03-04 16:04 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:04 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9350/session/71595ae55587e63a66a852e50551756a/element/0.242264429933704-2/value {"text": "lose1", "value": ["l", "o", "s", "e", "1"], "id": "0.242264429933704-2", "sessionId": "71595ae55587e63a66a852e50551756a"}
+2020-03-04 16:04 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:04 remote_connection.py[line:480] DEBUG DELETE http://127.0.0.1:9350/session/71595ae55587e63a66a852e50551756a {"sessionId": "71595ae55587e63a66a852e50551756a"}
+2020-03-04 16:04 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:05 Webdrivers.py[line:20] INFO Æô¶¯ä¯ÀÀÆ÷Îª£ºChrome
+2020-03-04 16:05 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9413/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-03-04 16:05 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:05 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9413/session/63e7a80c251109942a5052d6a6deb274/window/current/maximize {"windowHandle": "current", "sessionId": "63e7a80c251109942a5052d6a6deb274"}
+2020-03-04 16:05 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:05 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9413/session/63e7a80c251109942a5052d6a6deb274/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "63e7a80c251109942a5052d6a6deb274"}
+2020-03-04 16:05 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:05 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9413/session/63e7a80c251109942a5052d6a6deb274/window/current/maximize {"windowHandle": "current", "sessionId": "63e7a80c251109942a5052d6a6deb274"}
+2020-03-04 16:05 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:05 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9413/session/63e7a80c251109942a5052d6a6deb274/url {"url": "https://testerhome.com/", "sessionId": "63e7a80c251109942a5052d6a6deb274"}
+2020-03-04 16:06 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:06 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9413/session/63e7a80c251109942a5052d6a6deb274/url {"sessionId": "63e7a80c251109942a5052d6a6deb274"}
+2020-03-04 16:06 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:06 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9413/session/63e7a80c251109942a5052d6a6deb274/url {"url": "https://testerhome.com/", "sessionId": "63e7a80c251109942a5052d6a6deb274"}
+2020-03-04 16:06 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:06 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9413/session/63e7a80c251109942a5052d6a6deb274/element {"using": "css selector", "value": "div.container>ul>li:nth-child(2)", "sessionId": "63e7a80c251109942a5052d6a6deb274"}
+2020-03-04 16:06 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:06 BasePage.py[line:72] INFO test001_µÇÂ¼Ê§°Ü==²Ù×÷²½Öè£º%s==div.container>ul>li:nth-child(2)_css_click_ 
+2020-03-04 16:06 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9413/session/63e7a80c251109942a5052d6a6deb274/element {"using": "css selector", "value": "div.container>ul>li:nth-child(2)", "sessionId": "63e7a80c251109942a5052d6a6deb274"}
+2020-03-04 16:06 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:06 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9413/session/63e7a80c251109942a5052d6a6deb274/element/0.7508713756818697-1/click {"id": "0.7508713756818697-1", "sessionId": "63e7a80c251109942a5052d6a6deb274"}
+2020-03-04 16:06 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:06 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9413/session/63e7a80c251109942a5052d6a6deb274/element {"using": "class name", "value": "input-lg", "sessionId": "63e7a80c251109942a5052d6a6deb274"}
+2020-03-04 16:06 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:06 BasePage.py[line:72] INFO test001_µÇÂ¼Ê§°Ü==²Ù×÷²½Öè£º%s==input-lg_class_name_send_keys_lose1
+2020-03-04 16:06 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9413/session/63e7a80c251109942a5052d6a6deb274/element {"using": "class name", "value": "input-lg", "sessionId": "63e7a80c251109942a5052d6a6deb274"}
+2020-03-04 16:06 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:06 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9413/session/63e7a80c251109942a5052d6a6deb274/element/0.7508713756818697-2/value {"text": "lose1", "value": ["l", "o", "s", "e", "1"], "id": "0.7508713756818697-2", "sessionId": "63e7a80c251109942a5052d6a6deb274"}
+2020-03-04 16:06 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:06 remote_connection.py[line:480] DEBUG DELETE http://127.0.0.1:9413/session/63e7a80c251109942a5052d6a6deb274 {"sessionId": "63e7a80c251109942a5052d6a6deb274"}
+2020-03-04 16:06 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:07 Webdrivers.py[line:20] INFO Æô¶¯ä¯ÀÀÆ÷Îª£ºChrome
+2020-03-04 16:07 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9452/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-03-04 16:07 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:07 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9452/session/80eaf6a39b83e74853cf2162f1ffa9af/window/current/maximize {"windowHandle": "current", "sessionId": "80eaf6a39b83e74853cf2162f1ffa9af"}
+2020-03-04 16:07 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:07 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9452/session/80eaf6a39b83e74853cf2162f1ffa9af/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "80eaf6a39b83e74853cf2162f1ffa9af"}
+2020-03-04 16:07 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:07 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9452/session/80eaf6a39b83e74853cf2162f1ffa9af/window/current/maximize {"windowHandle": "current", "sessionId": "80eaf6a39b83e74853cf2162f1ffa9af"}
+2020-03-04 16:07 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:07 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9452/session/80eaf6a39b83e74853cf2162f1ffa9af/url {"url": "https://testerhome.com/", "sessionId": "80eaf6a39b83e74853cf2162f1ffa9af"}
+2020-03-04 16:07 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:07 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9452/session/80eaf6a39b83e74853cf2162f1ffa9af/url {"sessionId": "80eaf6a39b83e74853cf2162f1ffa9af"}
+2020-03-04 16:07 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:07 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9452/session/80eaf6a39b83e74853cf2162f1ffa9af/url {"url": "https://testerhome.com/", "sessionId": "80eaf6a39b83e74853cf2162f1ffa9af"}
+2020-03-04 16:07 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:07 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9452/session/80eaf6a39b83e74853cf2162f1ffa9af/element {"using": "css selector", "value": "div.container>ul>li:nth-child(2)", "sessionId": "80eaf6a39b83e74853cf2162f1ffa9af"}
+2020-03-04 16:07 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:07 BasePage.py[line:72] INFO test001_µÇÂ¼Ê§°Ü==²Ù×÷²½Öè£º%s==div.container>ul>li:nth-child(2)_css_click_ 
+2020-03-04 16:07 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9452/session/80eaf6a39b83e74853cf2162f1ffa9af/element {"using": "css selector", "value": "div.container>ul>li:nth-child(2)", "sessionId": "80eaf6a39b83e74853cf2162f1ffa9af"}
+2020-03-04 16:07 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:07 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9452/session/80eaf6a39b83e74853cf2162f1ffa9af/element/0.102524195347925-1/click {"id": "0.102524195347925-1", "sessionId": "80eaf6a39b83e74853cf2162f1ffa9af"}
+2020-03-04 16:07 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:07 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9452/session/80eaf6a39b83e74853cf2162f1ffa9af/element {"using": "class name", "value": "input-lg", "sessionId": "80eaf6a39b83e74853cf2162f1ffa9af"}
+2020-03-04 16:07 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:07 BasePage.py[line:72] INFO test001_µÇÂ¼Ê§°Ü==²Ù×÷²½Öè£º%s==input-lg_class_name_send_keys_lose1
+2020-03-04 16:07 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9452/session/80eaf6a39b83e74853cf2162f1ffa9af/element {"using": "class name", "value": "input-lg", "sessionId": "80eaf6a39b83e74853cf2162f1ffa9af"}
+2020-03-04 16:07 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:07 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9452/session/80eaf6a39b83e74853cf2162f1ffa9af/element/0.102524195347925-2/value {"text": "lose1", "value": ["l", "o", "s", "e", "1"], "id": "0.102524195347925-2", "sessionId": "80eaf6a39b83e74853cf2162f1ffa9af"}
+2020-03-04 16:07 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:07 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9452/session/80eaf6a39b83e74853cf2162f1ffa9af/element {"using": "id", "value": "user_password", "sessionId": "80eaf6a39b83e74853cf2162f1ffa9af"}
+2020-03-04 16:07 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:07 BasePage.py[line:72] INFO test001_µÇÂ¼Ê§°Ü==²Ù×÷²½Öè£º%s==user_password_id_send_keys_1231231232
+2020-03-04 16:08 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9452/session/80eaf6a39b83e74853cf2162f1ffa9af/element {"using": "id", "value": "user_password", "sessionId": "80eaf6a39b83e74853cf2162f1ffa9af"}
+2020-03-04 16:08 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:08 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9452/session/80eaf6a39b83e74853cf2162f1ffa9af/element/0.102524195347925-3/value {"text": "1231231232", "value": ["1", "2", "3", "1", "2", "3", "1", "2", "3", "2"], "id": "0.102524195347925-3", "sessionId": "80eaf6a39b83e74853cf2162f1ffa9af"}
+2020-03-04 16:08 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:08 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9452/session/80eaf6a39b83e74853cf2162f1ffa9af/element {"using": "css selector", "value": "div.form-actions", "sessionId": "80eaf6a39b83e74853cf2162f1ffa9af"}
+2020-03-04 16:08 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:08 BasePage.py[line:72] INFO test001_µÇÂ¼Ê§°Ü==²Ù×÷²½Öè£º%s==div.form-actions_css_click_ 
+2020-03-04 16:08 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9452/session/80eaf6a39b83e74853cf2162f1ffa9af/element {"using": "css selector", "value": "div.form-actions", "sessionId": "80eaf6a39b83e74853cf2162f1ffa9af"}
+2020-03-04 16:08 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:08 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9452/session/80eaf6a39b83e74853cf2162f1ffa9af/element/0.102524195347925-4/click {"id": "0.102524195347925-4", "sessionId": "80eaf6a39b83e74853cf2162f1ffa9af"}
+2020-03-04 16:08 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:08 remote_connection.py[line:480] DEBUG DELETE http://127.0.0.1:9452/session/80eaf6a39b83e74853cf2162f1ffa9af {"sessionId": "80eaf6a39b83e74853cf2162f1ffa9af"}
+2020-03-04 16:08 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:12 Webdrivers.py[line:20] INFO Æô¶¯ä¯ÀÀÆ÷Îª£ºChrome
+2020-03-04 16:12 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9542/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-03-04 16:12 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:12 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9542/session/c017244faf2a603b2e4766295596fb5d/window/current/maximize {"windowHandle": "current", "sessionId": "c017244faf2a603b2e4766295596fb5d"}
+2020-03-04 16:12 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:12 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9542/session/c017244faf2a603b2e4766295596fb5d/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "c017244faf2a603b2e4766295596fb5d"}
+2020-03-04 16:12 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:12 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9542/session/c017244faf2a603b2e4766295596fb5d/window/current/maximize {"windowHandle": "current", "sessionId": "c017244faf2a603b2e4766295596fb5d"}
+2020-03-04 16:12 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:12 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9542/session/c017244faf2a603b2e4766295596fb5d/url {"url": "https://iparking.ibotech.com.cn", "sessionId": "c017244faf2a603b2e4766295596fb5d"}
+2020-03-04 16:13 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:13 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9542/session/c017244faf2a603b2e4766295596fb5d/url {"sessionId": "c017244faf2a603b2e4766295596fb5d"}
+2020-03-04 16:13 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:13 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9542/session/c017244faf2a603b2e4766295596fb5d/url {"url": "https://iparking.ibotech.com.cn/#/", "sessionId": "c017244faf2a603b2e4766295596fb5d"}
+2020-03-04 16:13 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:13 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9542/session/c017244faf2a603b2e4766295596fb5d/element {"using": "id", "value": "inp", "sessionId": "c017244faf2a603b2e4766295596fb5d"}
+2020-03-04 16:13 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:13 BasePage.py[line:72] INFO test001_µÇÂ¼³É¹¦==²Ù×÷²½Öè£º%s==inp_id_send_keys_13800138001
+2020-03-04 16:13 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9542/session/c017244faf2a603b2e4766295596fb5d/element {"using": "id", "value": "inp", "sessionId": "c017244faf2a603b2e4766295596fb5d"}
+2020-03-04 16:13 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:13 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9542/session/c017244faf2a603b2e4766295596fb5d/element/0.08794071668215131-1/value {"text": "13800138001", "value": ["1", "3", "8", "0", "0", "1", "3", "8", "0", "0", "1"], "id": "0.08794071668215131-1", "sessionId": "c017244faf2a603b2e4766295596fb5d"}
+2020-03-04 16:13 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:13 remote_connection.py[line:480] DEBUG DELETE http://127.0.0.1:9542/session/c017244faf2a603b2e4766295596fb5d {"sessionId": "c017244faf2a603b2e4766295596fb5d"}
+2020-03-04 16:13 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:13 Webdrivers.py[line:20] INFO Æô¶¯ä¯ÀÀÆ÷Îª£ºChrome
+2020-03-04 16:13 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9585/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2020-03-04 16:13 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:13 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9585/session/22bf40a0c48a8b23f00af2539d99a956/window/current/maximize {"windowHandle": "current", "sessionId": "22bf40a0c48a8b23f00af2539d99a956"}
+2020-03-04 16:13 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:13 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9585/session/22bf40a0c48a8b23f00af2539d99a956/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "22bf40a0c48a8b23f00af2539d99a956"}
+2020-03-04 16:13 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:13 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9585/session/22bf40a0c48a8b23f00af2539d99a956/window/current/maximize {"windowHandle": "current", "sessionId": "22bf40a0c48a8b23f00af2539d99a956"}
+2020-03-04 16:13 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:13 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9585/session/22bf40a0c48a8b23f00af2539d99a956/url {"url": "https://iparking.ibotech.com.cn", "sessionId": "22bf40a0c48a8b23f00af2539d99a956"}
+2020-03-04 16:14 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:14 remote_connection.py[line:480] DEBUG GET http://127.0.0.1:9585/session/22bf40a0c48a8b23f00af2539d99a956/url {"sessionId": "22bf40a0c48a8b23f00af2539d99a956"}
+2020-03-04 16:14 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:14 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9585/session/22bf40a0c48a8b23f00af2539d99a956/url {"url": "https://iparking.ibotech.com.cn/#/", "sessionId": "22bf40a0c48a8b23f00af2539d99a956"}
+2020-03-04 16:14 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:14 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9585/session/22bf40a0c48a8b23f00af2539d99a956/element {"using": "id", "value": "inp", "sessionId": "22bf40a0c48a8b23f00af2539d99a956"}
+2020-03-04 16:14 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:14 BasePage.py[line:72] INFO test001_µÇÂ¼³É¹¦==²Ù×÷²½Öè£º%s==inp_id_send_keys_13800138001
+2020-03-04 16:14 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9585/session/22bf40a0c48a8b23f00af2539d99a956/element {"using": "id", "value": "inp", "sessionId": "22bf40a0c48a8b23f00af2539d99a956"}
+2020-03-04 16:14 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:14 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9585/session/22bf40a0c48a8b23f00af2539d99a956/element/0.4012685667420557-1/value {"text": "13800138001", "value": ["1", "3", "8", "0", "0", "1", "3", "8", "0", "0", "1"], "id": "0.4012685667420557-1", "sessionId": "22bf40a0c48a8b23f00af2539d99a956"}
+2020-03-04 16:14 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:14 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9585/session/22bf40a0c48a8b23f00af2539d99a956/element {"using": "xpath", "value": "//*[@id =\"password\"]/div/div[1]/input", "sessionId": "22bf40a0c48a8b23f00af2539d99a956"}
+2020-03-04 16:14 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:14 BasePage.py[line:72] INFO test001_µÇÂ¼³É¹¦==²Ù×÷²½Öè£º%s==//*[@id ="password"]/div/div[1]/input_xpath_send_keys_138001
+2020-03-04 16:14 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9585/session/22bf40a0c48a8b23f00af2539d99a956/element {"using": "xpath", "value": "//*[@id =\"password\"]/div/div[1]/input", "sessionId": "22bf40a0c48a8b23f00af2539d99a956"}
+2020-03-04 16:14 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:14 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9585/session/22bf40a0c48a8b23f00af2539d99a956/element/0.4012685667420557-2/value {"text": "138001", "value": ["1", "3", "8", "0", "0", "1"], "id": "0.4012685667420557-2", "sessionId": "22bf40a0c48a8b23f00af2539d99a956"}
+2020-03-04 16:14 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:14 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9585/session/22bf40a0c48a8b23f00af2539d99a956/element {"using": "xpath", "value": "//*[@id=\"app\"]/div/div[1]/form/div[4]/div/button", "sessionId": "22bf40a0c48a8b23f00af2539d99a956"}
+2020-03-04 16:14 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:14 BasePage.py[line:72] INFO test001_µÇÂ¼³É¹¦==²Ù×÷²½Öè£º%s==//*[@id="app"]/div/div[1]/form/div[4]/div/button_xpath_click_ 
+2020-03-04 16:14 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9585/session/22bf40a0c48a8b23f00af2539d99a956/element {"using": "xpath", "value": "//*[@id=\"app\"]/div/div[1]/form/div[4]/div/button", "sessionId": "22bf40a0c48a8b23f00af2539d99a956"}
+2020-03-04 16:14 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:14 remote_connection.py[line:480] DEBUG POST http://127.0.0.1:9585/session/22bf40a0c48a8b23f00af2539d99a956/element/0.4012685667420557-3/click {"id": "0.4012685667420557-3", "sessionId": "22bf40a0c48a8b23f00af2539d99a956"}
+2020-03-04 16:14 remote_connection.py[line:567] DEBUG Finished Request
+2020-03-04 16:14 remote_connection.py[line:480] DEBUG DELETE http://127.0.0.1:9585/session/22bf40a0c48a8b23f00af2539d99a956 {"sessionId": "22bf40a0c48a8b23f00af2539d99a956"}
+2020-03-04 16:14 remote_connection.py[line:567] DEBUG Finished Request

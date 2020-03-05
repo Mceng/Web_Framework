@@ -39,3 +39,35 @@ Python+Pytest+Selenium+Allure+PageObject
             
 
 
+用例说明
+```
+testinfo:
+    - id: test001-------用例名称
+      title: 登录成功
+      info: 打开ibotech
+testcase:
+    - element_info: inp（定位元素信息）
+      find_type: id（定位元素方法）
+      operate_type: send_keys（定位元素动作方法）
+      info: 输入用户名（信息说明）
+      msg: 13800138001（输入信息）
+      is_time: 10（等待时间）
+      check_time: 10 (等待元素超时时间，默认20)
+      index: 1(当定位find_type为复数时，index为定位索引)
+    - element_info: //*[@id ="password"]/div/div[1]/input
+      find_type: xpath
+      operate_type: send_keys
+      msg: 138001
+      info: 输入密码138001
+    - element_info: //*[@id="app"]/div/div[1]/form/div[4]/div/button
+      find_type: xpath
+      operate_type: click
+      info: 点击登录
+      is_time: 10
+
+check:
+    - element_info: div.alert-warning
+      find_type: css
+      info: 出现错误的密码登录不成功提示框
+```
+

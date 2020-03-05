@@ -1,0 +1,27 @@
+testinfo:
+    - id: test001
+      title: 登录成功
+      info: 打开ibotech
+testcase:
+    - element_info: inp
+      find_type: id
+      operate_type: send_keys
+      info: 输入用户名
+      msg: 13800138001
+    - element_info: //*[@id ="password"]/div/div[1]/input
+      find_type: xpath
+      operate_type: send_keys
+      msg: 138001
+      info: 输入密码138001
+    - element_info: //*[@id="app"]/div/div[1]/form/div[4]/div/button
+      find_type: xpath
+      operate_type: click
+      info: 点击登录
+      is_time: 10
+
+check:
+    - element_info: //*[@id="subtitle"]/span
+      find_type: xpath
+      operate_type: get_text
+      index: 艾伯信息科技
+      info: 出现错误的密码登录不成功提示框

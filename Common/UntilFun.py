@@ -6,7 +6,7 @@
 import os
 import yaml
 import shutil
-from Common.element_path import Element
+from Common.ElementPath import Element
 
 
 def read_yaml(yaml_path):

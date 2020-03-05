@@ -2,7 +2,9 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/AppDrivers" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/Common/webdrivers.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Common/BaseYaml.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Common/Webdrivers.py" charset="GBK" />
     <file url="file://$PROJECT_DIR$/OutPuts/logs/2020-03-02_run_logging.log" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/TestCases/test_logincase/OutPuts/logs/2020-03-04_run_logging.log" charset="GBK" />
   </component>
 </project>

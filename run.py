@@ -18,11 +18,11 @@
 import sys
 
 import pytest
-from Common.shell import Shell
-from Common.element_path import Element
-from Common.until_fun import remore_filedir
+from Common.Shell import Shell
+from Common.ElementPath import Element
+from Common.UntilFun import remore_filedir
 # from utils.send_email import SendMail
-from Common.logging_conf import loggering
+from Common.LoggingConf import loggering
 import logging
 
 
