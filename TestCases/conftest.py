@@ -8,6 +8,7 @@ import pytest
 import logging
 from Common.LoggingConf import loggering
 from Common.Webdrivers import *
+from Config.config import Config
 
 loggering()
 driver = None
@@ -16,6 +17,6 @@ driver = None
 def Driver():
     driver = Webdriver()
     driver.maximize_window()
-    driver.get('https://iparking.ibotech.com.cn')
+    driver.get(Config().base_url)
     yield driver
     driver.quit()

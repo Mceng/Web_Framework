@@ -52,7 +52,7 @@ class Element():
     REPORT_XML = PATH("../OutPuts/reports/xml")
     REPORT_HTML = PATH("../OutPuts/reports/html")
     IMAGES = PATH("../OutPuts/images")
-    CONFIG = PATH("../config/config.ini")
+    CONFIG = PATH("../Config/config.ini")
     PARAMS = PATH("../TestData")
     ASSERT_SQL = PATH("../params/assert_sql.yml")
     Allure_Path = PATH("../OutPuts/allure-2.12.1/bin")
